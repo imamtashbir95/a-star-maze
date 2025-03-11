@@ -1,7 +1,5 @@
 MIT License
 
-MIT License
-
 Copyright (c) 2025 Imam Tashbir Arrahman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
